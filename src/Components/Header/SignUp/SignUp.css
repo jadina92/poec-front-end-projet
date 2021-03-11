@@ -1,0 +1,23 @@
+
+
+.loginText {
+  color: #007bff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.successMessage {
+  color: green;
+  font-weight: bold;
+}
+
+.search-button {
+  background-color: white;
+  color: black;
+  min-height: 5vh;
+  font-size: larger;
+  border-radius: 20px;
+  padding: 1.5vh;
+  border: none;
+  text-decoration: none;
+}
